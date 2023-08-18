@@ -1,4 +1,5 @@
 <script>
+  export const prerender = true
   import Counter from "./Counter.svelte";
   import Question from "./Question.svelte";
   import '../lib/app.css'
